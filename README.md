@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://media.giphy.com/media/gpF1hNYWOFvLa/giphy.gif" />
 
 ### I am Sai Mukkundan
-- An Embedded Systems and Computer Vision Enthusiast.
-- Currently working as a Embedded Software Engineer, focussed on developing system apps for Android TV devices  
-- Has a knack for developing software in Embedded C, python, java, C++.
-- Right Now ventured into Android App Development
-- Previously had worked in computer vision and robotics projects
+- An Embedded Systems and Robotics Enthusiast.
+- Had worked as a Embedded Software Engineer for 6+ years, focussed on developing Android Os middleware, System apps and Android Os Build systems for TV devices, Mobile devices and Automotive Infotainment Units.  
+- Has a knack for developing software in Embedded C, python, java, C++ and shell scripts.
+- Right Now focussed on developing autonomous systems (mostly Robotics and Edge AI).
+- Previously had worked in computer vision, robotics projects and Android App Development project
 
 ⭐️ From [Sai Mukkundan](https://github.com/saiga006)
