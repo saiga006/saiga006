@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 # I'm Sai Mukkundan Ramamoorthy (Sai M. Ramm), 
-**M.Sc. Autonomous Systems | C++ Software Engineer | 3D Computer Vision & Robotics**
+**M.Sc. Autonomous Systems | Software Engineer | 3D Computer Vision & Robotics**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sai-ramm/) 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail)](mailto:saimukkundan.ramamoorthy@gmail.com)
