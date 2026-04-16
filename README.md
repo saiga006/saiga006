@@ -36,7 +36,7 @@ Currently pursuing my **M.Sc. in Autonomous Systems** in Germany, my focus lies 
 ### Skills
 
 **3D Vision & Deep Learning:**
-* `PyTorch` `Transformers` `OpenCV` `Open3D / PCL` `COLMAP` `Structure from Motion (SfM)` 
+* `PyTorch` `Transformers` `OpenCV` `Open3D / PCL` `COLMAP` `Structure from Motion (SfM)` `skrl (reinforcement learning)`
 
 **Robotics & Simulation:**
 * `ROS2` `IsaacLab / Isaac Sim` `PyBullet` `Gazebo` `Monte Carlo Localization (MCL)`
